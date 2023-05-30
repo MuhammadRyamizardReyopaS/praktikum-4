@@ -13,6 +13,7 @@
 3. Tampilkan pegawai yang tunjangannya NOT NULL !
 
 ![foto3](foto/foto3 (3).png)
+
 4. Tampilkan / hitung jumlah baris / record tabel pegawai !
 
 ![foto4](foto/foto4.png)
